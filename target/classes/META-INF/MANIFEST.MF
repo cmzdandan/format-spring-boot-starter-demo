@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: format-spring-boot-starter-demo
+Implementation-Version: 1.0.0
+Built-By: Administrator
+Implementation-Vendor-Id: com.cmz
+Build-Jdk: 1.8.0_51
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/format-spring-boot-starter-demo
+Created-By: Maven Integration for Eclipse
+
